@@ -108,13 +108,16 @@ S3 Output Bucket (output-bucket-json-2026)
 ## Screenshots
 
 ### 1. Input Bucket — CSV uploaded to `uploads/` folder
-![Input Bucket](screenshots/input-buket.png)
+
+<img src="screenshots/input-buket.png" alt="Input bucket input-bucket-csv-2026 showing uploads/test.csv" width="100%">
 
 ### 2. Lambda Function — Configuration & Code
-![Lambda Function](screenshots/lambda.png)
+
+<img src="screenshots/lambda.png" alt="Lambda function csv-to-json-processor with S3 trigger configured" width="100%">
 
 ### 3. Output Bucket — Transformed JSON generated
-![Output Bucket](screenshots/output-buket.png)
+
+<img src="screenshots/output-buket.png" alt="Output bucket output-bucket-json-2026 showing uploads/test.json" width="100%">
 
 ---
 
