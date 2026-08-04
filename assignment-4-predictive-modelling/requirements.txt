@@ -1,0 +1,13 @@
+# Python dependencies for the Titanic predictive modelling project.
+#
+# Install everything with:
+#     pip install -r requirements.txt
+#
+# Versions are given as minimums (>=) rather than pins (==), so the project
+# keeps working as these libraries are updated. The versions listed are the
+# ones the project was developed and verified against.
+
+pandas>=2.0.0            # data ingestion, cleaning and analysis  (verified: 3.0.5)
+numpy>=1.24.0            # numerical arrays, used for the sigmoid  (verified: 2.5.1)
+matplotlib>=3.7.0        # all charts and plots                    (verified: 3.11.1)
+scikit-learn>=1.3.0      # train/test split, scaling, model, metrics (verified: 1.9.0)
